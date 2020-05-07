@@ -1,0 +1,24 @@
+body {
+  background: url('../images/background.png');
+}
+
+.container {
+  padding: 20px 0;
+}
+
+.card {
+  border: 2px solid #5bdbc5;
+  background: #ecefd6;
+}
+
+table, .card-body {
+  background: #ecefd6;
+}
+
+.fas {
+  color: #5bdbc5;
+}
+
+.fas:hover {
+  color: black;
+}
